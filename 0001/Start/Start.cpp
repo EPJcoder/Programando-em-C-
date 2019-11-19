@@ -2,7 +2,7 @@
 	Programador: Euclydes Penteado Junior
 	Data: 18/11/2019
 	e-mail: jogosdigitaissp@gmail.com
-	Objetivo: Imprimir uma string de caracter
+	Objetivo: Imprimir uma string de caracteres
 */
 
 #include <iostream>
