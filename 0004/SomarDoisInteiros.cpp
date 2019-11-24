@@ -6,6 +6,7 @@
 */
 
 #include <iostream>
+#include <cstdlib>
 
 int main()
 {
@@ -13,15 +14,16 @@ int main()
 	int segundoNumero = 0;
 	int soma = 0;
 
-	std::cout << "Entre com o primeiro numero: ";
+	std::cout << "Entre com o primeiro numero inteiro: ";
 	std::cin >> primeiroNumero;
 
-	std::cout << "Entre com o segundo numero: ";
+	std::cout << "Entre com o segundo numero inteiro: ";
 	std::cin >> segundoNumero;
 
 	soma = ( primeiroNumero + segundoNumero );
 
-	std::cout << "Soma: " << soma << std::endl;
+	std::cout << "Soma = " << soma << std::endl;
 
+	system("PAUSE");
 	return 0;
 }
