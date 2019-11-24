@@ -3,10 +3,6 @@
 	Data: 22/11/2019
 	e-mail: jogosdigitaissp@gmail.com
 	Objetivo: Comparar dois números inteiros
-
-	OBS: Estou incluindo a classe cstdlib para fazer uso
-	do comando: system("PAUSE");
-	O referido comando 'congela' a tela para vermos a execusão da aplicação.
 */
 
 #include <iostream>
