@@ -6,10 +6,12 @@
 */
 
 #include <iostream>
+#include <cstdlib>
 
 int main()
 {
-	std::cout << "Programando\nem\nC\nplus\nplus\n";
+	std::cout << "Programando\nem\nC\nplus\nplus" << std::endl;
 
+	system("PAUSE");
 	return 0;
 }
