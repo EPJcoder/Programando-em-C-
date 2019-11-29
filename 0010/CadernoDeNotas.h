@@ -29,7 +29,7 @@ public:
 		return cursoNome;
 	}
 
-	void ExibirMensagem() const
+	void exibirMensagem() const
 	{
 		std::cout << "Bem-Vindo ao Caderno de Notas: " << getCursoNome()
 			<< std::endl;
