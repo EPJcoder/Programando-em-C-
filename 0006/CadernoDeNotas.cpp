@@ -11,7 +11,7 @@
 class CadernoDeNotas
 {
 public:
-	void ExibirMensagem() const
+	void exibirMensagem() const
 	{
 		std::cout << "Seja Bem-Vindo ao caderno de notas:" << std::endl;
 	}
@@ -20,7 +20,7 @@ public:
 int main()
 {
 	CadernoDeNotas meuCadernoDeNotas;
-	meuCadernoDeNotas.ExibirMensagem();
+	meuCadernoDeNotas.exibirMensagem();
 
 	system("PAUSE");
 	return 0;
