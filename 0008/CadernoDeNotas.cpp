@@ -25,7 +25,7 @@ public:
 		return cursoNome;
 	}
 
-	void ExbirMensagem() const
+	void exbirMensagem() const
 	{
 		cout << "Bem-Vindo ao Caderno de Notas:\n" << getCursoNome()
 			<< "!\n" << endl;
@@ -48,7 +48,7 @@ int main()
 	meuCadernoDeNotas.setCursoNome( nomeDoCurso );
 	cout << endl;
 
-	meuCadernoDeNotas.ExbirMensagem();
+	meuCadernoDeNotas.exbirMensagem();
 
 	system("PAUSE");
 	return 0;
