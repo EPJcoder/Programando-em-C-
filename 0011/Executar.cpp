@@ -1,3 +1,11 @@
+/*
+	Programador: Euclydes Penteado Junior
+	Data: 29/11/2019
+	e-mail: jogosdigitaissp@gmail.com
+	Objetivo: Definir a função principal e incluir
+	o Header CadernoDeNotas.h(como Header criado pelo usuário)
+*/
+
 #include <iostream>
 #include <cstdlib>
 #include "CadernoDeNotas.h"

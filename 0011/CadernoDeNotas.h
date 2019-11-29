@@ -1,3 +1,10 @@
+/*
+	Programador: Euclydes Penteado Junior
+	Data: 29/11/2019
+	e-mail: jogosdigitaissp@gmail.com
+	Objetivo: Definir a interface pública da classe
+*/
+
 #include <string>
 
 class CadernoDeNotas

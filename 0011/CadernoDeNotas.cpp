@@ -1,3 +1,10 @@
+/*
+	Programador: Euclydes Penteado Junior
+	Data: 29/11/2019
+	e-mail: jogosdigitaissp@gmail.com
+	Objetivo: Definir funções membro da classe
+*/
+
 #include <iostream>
 #include "CadernoDeNotas.h"
 
