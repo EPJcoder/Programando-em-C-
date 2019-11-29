@@ -15,7 +15,7 @@ using namespace std;
 class CadernoDeNotas
 {
 public:
-	void ExibirMensagem( string cursoNome ) const
+	void exibirMensagem( string cursoNome ) const
 	{
 		cout << "Bem-Vindo ao Caderno de Notas para o curso: "
 			<< cursoNome << "!" << endl;
@@ -31,7 +31,7 @@ int main()
 	getline( cin, nomeDoCurso );
 	cout << endl;
 
-	meuCadernoDeNotas.ExibirMensagem( nomeDoCurso );
+	meuCadernoDeNotas.exibirMensagem( nomeDoCurso );
 
 	system("PAUSE");
 	return 0;
