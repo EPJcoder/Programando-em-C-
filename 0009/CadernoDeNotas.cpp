@@ -31,7 +31,7 @@ public:
 		return cursoNome;
 	}
 
-	void ExibirMensagem() const
+	void exibirMensagem() const
 	{
 		cout << "Bem-Vindo ao Caderno de Notas: " << getCursoNome()
 			<< "!" << endl;
